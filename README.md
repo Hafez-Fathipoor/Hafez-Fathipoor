@@ -1,5 +1,5 @@
 ### Hi there 👋
-##I’m Hafez Fathipoor, and I have a Master of Science in Remote Sensing engineering from the University of Tehran, Iran.
+**I’m _Hafez Fathipoor_, and I have a Master of Science in Remote Sensing engineering from the University of Tehran, Iran.**
 
 🔭 I’m currently working on applications of machine learning in remote sensing, especially precision agriculture.
 
