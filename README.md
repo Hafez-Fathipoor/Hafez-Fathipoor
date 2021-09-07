@@ -1,7 +1,7 @@
 ### Hi there 👋
 **I’m _Hafez Fathipoor_, and I have a Master of Science in _Remote Sensing engineering_ from the University of Tehran, Iran.**
 
-🔭 I’m currently working on applications of machine learning in remote sensing, especially precision agriculture.
+🔭 I’m interested in applications of machine learning in remote sensing, especially precision agriculture.
 
 🌱 I’m currently doing research on weed mapping using aerial multispectral images and machine learning.
 
